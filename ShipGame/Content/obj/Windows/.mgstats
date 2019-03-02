@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/7aylor/Desktop/Monogame/Krassjam9/ShipGame/ShipGame/ShipGame/Content/DefaultFont.spritefont","C:/Users/7aylor/Desktop/Monogame/Krassjam9/ShipGame/ShipGame/ShipGame/Content/bin/Windows/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.6010531
+"C:/Users/7aylor/Desktop/Monogame/Krassjam9/ShipGame/ShipGame/ShipGame/Content/Tile.png","C:/Users/7aylor/Desktop/Monogame/Krassjam9/ShipGame/ShipGame/ShipGame/Content/bin/Windows/Tile.xnb","TextureProcessor","Texture2DContent",12244,326181,0.0902715
